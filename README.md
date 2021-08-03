@@ -1,12 +1,12 @@
 <div>
 <h1 align="center">Aoba 👋, eu sou Douglas Castro</h1>
-<h3 align="center">Apaixonado por tecnologias e sempre em busca de novos desafios.</h3>
+<h3 align="center">Analista de Sistemas</h3>
 </div>
 
 <div>
   <a href="https://github.com/douglaswcastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaswcastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswcastro&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaswcastro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaswcastro&layout=compact&langs_count=16&theme=dark"/>
 <div>
 
 <div style="display: inline_block"><br>
